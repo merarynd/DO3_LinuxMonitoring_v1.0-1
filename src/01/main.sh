@@ -1,10 +1,4 @@
 #!bin/bash
-echo "ПРИВЕТ МИР"
-echo "ПРИВЕТ МИР"
-echo "ПРИВЕТ МИР"
-echo "ПРИВЕТ МИР"
-echo "ПРИВЕТ МИР"
-echo "ПРИВЕТ МИР"
-echo "ПРИВЕТ МИР"
-echo "ПРИВЕТ МИР"
-echo "ПРИВЕТ МИР"
+
+sh text.sh
+sh param.sh

@@ -1,7 +1,6 @@
 #!/bin/bash
 
-if [ $# -ne 1 ]
-    then
-        echo "Error, please enter 1 parameter!"
-        exit
+if [[ "$1" = [0-9] ]];then
+    echo "Вы ввели число.Введите текстовы параметр."
+else echo "$1"
 fi

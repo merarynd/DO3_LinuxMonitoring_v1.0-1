@@ -6,6 +6,8 @@
 *.ko
 *.obj
 *.elf
+cd /src/*.gitkeep
+cd /src/*.DS_Store
 
 # Linker output
 *.ilk
